@@ -8,3 +8,5 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 
 This is my implementation of Daniel Holden's tutorial "Build Your Own Lisp" at buildyourownlisp.com. My formatting is a little different, I implemented things a little differently in some places (just a personal preference kind of deal), and added a lot of comments, but all in all it was a great tutorial and a great way to become more familiar with C and put myself in the shoes (at least a tiny bit!) of language developers. Major kudos and thanks to him.
+
+To run, just put the files in the src folder in the same directory, then compile and run parsing.c. This is just a toy I made to learn, so don't expect much.
